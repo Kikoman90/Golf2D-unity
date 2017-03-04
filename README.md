@@ -1,6 +1,6 @@
 # Golf2D
 
-Golf2D is a mini unity project, designed and developped for my learning of c#/unity.
+Golf2D is a mini unity project, designed and developped for my learning of c#/unity. <br />
 I focused more specifically on the GUI, and the manipulation of prefabs and gameobjects.
 
 ## preview
