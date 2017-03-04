@@ -1,3 +1,10 @@
-# Golf2D-unity-
+# Golf2D
 
-![](https://media.giphy.com/media/3og0IuQ85xxkwbD7c4/giphy.gif)
+Golf2D is a mini unity project, designed and developped for my learning of c#/unity.
+I focused more specifically on the GUI, and the manipulation of prefabs and gameobjects.
+
+## preview
+![](https://media.giphy.com/media/xUPGcFnINHwx2fKxoI/giphy.gif)
+
+## Contact & contribute
+If you want to contact me, send me a mail at **fsidler@student.42.fr**
