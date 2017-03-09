@@ -7,8 +7,11 @@ I focused more specifically on the GUI, and the manipulation of prefabs and game
 You can download Golf2D with the link below (windows build available soon):
 * http://bit.ly/Golf2D_build_macos
 
-## preview
+## Preview
 ![](https://media.giphy.com/media/xUPGcFnINHwx2fKxoI/giphy.gif)
+
+## How to play
+Just hold and release spacebar to shoot
 
 ## Contact & contribute
 If you want to contact me, send me a mail at **fsidler@student.42.fr**
