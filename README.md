@@ -8,7 +8,7 @@ You can download Golf2D with the link below (windows build available soon):
 * http://bit.ly/Golf2D_build_macos
 
 ## Preview
-![](https://media.giphy.com/media/xUPGcFnINHwx2fKxoI/giphy.gif)
+![](https://media.giphy.com/media/l0IybPKqxpulZkYHm/giphy.gif)
 
 ## How to play
 Just hold and release spacebar to shoot
